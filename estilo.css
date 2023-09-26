@@ -1,0 +1,30 @@
+p {
+    font-size: 18px;
+    font-family: fantasy;
+    color: yellow;
+  }
+
+  #parrafo1 {
+    font-size: 10px;
+    color: rgb(255, 0, 0);
+  }
+
+  .destacado {
+    font-weight: bold;
+    color: rgb(0, 255, 221);
+  }
+  
+  
+
+  h1.titulo {
+    font-size: 24px;
+    font-family: arial;
+    color: rgb(0, 4, 255);
+  }
+
+  h2.titulo {
+    font-size: 50px;
+    font-family: fantasy;
+    color: rgba(255, 0, 217,0.20);
+  }
+    
